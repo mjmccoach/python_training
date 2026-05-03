@@ -103,3 +103,7 @@ eriks_pets.append({"species: dog", "name: Fluffy"})
 print(eriks_pets)
 
 # 10. Add another person to the users dictionary
+
+Matthew = {"twitter": "heehaw", "home_town": "London"}
+users["Matthew"] = Matthew
+print(users)
